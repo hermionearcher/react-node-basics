@@ -1,0 +1,25 @@
+{
+  "name": "react-node-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hermionearcher/react-node-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hermionearcher/react-node-basics/issues"
+  },
+  "homepage": "https://github.com/hermionearcher/react-node-basics#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "proxy": "http://localhost:3001",
+
+}
